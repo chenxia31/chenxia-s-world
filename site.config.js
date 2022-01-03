@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'bullshit of chenxia',
+  name: 'source collection of statistic data',
   domain: 'https://www.notion.so/clouddirty/Chenxia-s-blog-b4fca7bc832a4d99ad8390cda41ea93d',
   author: 'chenxia',
 
