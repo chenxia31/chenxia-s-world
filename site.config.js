@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'source collection of statistic data',
-  domain: 'https://www.notion.so/clouddirty/Chenxia-s-blog-b4fca7bc832a4d99ad8390cda41ea93d',
+  domain: 'tjdata.site',
   author: 'chenxia',
 
   // open graph metadata (optional)
